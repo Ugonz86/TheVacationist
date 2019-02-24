@@ -1,0 +1,63 @@
+#result {
+  display: none;
+}
+
+
+h1 {
+  text-align: center;
+  }
+h4 {
+
+  font-weight: lighter;
+  margin-top: auto;
+}
+
+h5 {
+  text-align: center;
+}
+}
+p2 {
+  font-weight: lighter;
+  font-style: italic;
+  font-size: 200%;
+}
+.btn {
+background-color: black;
+color: white;
+
+
+}
+.contact {
+
+  font-weight: bolder;
+}
+
+.client {
+  font-weight: bold;
+}
+
+#destination {
+  font-style: italic;
+  font-weight: bold;
+}
+
+.form-control {
+
+}
+.form-group1 {
+  text-align: center;
+  color: black;
+}
+
+.form-group2 {
+text-align: center;
+}
+
+img {
+  max-width: 5%;
+
+}
+
+.container.well{
+  background-color: #B4DCDF;
+}
